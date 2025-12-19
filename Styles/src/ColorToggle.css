@@ -1,0 +1,14 @@
+
+.redBox {
+  background-color: red;
+  color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.blueBox {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+}
